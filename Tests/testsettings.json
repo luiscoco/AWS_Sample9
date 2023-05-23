@@ -1,0 +1,8 @@
+{
+    "GroupName": "test-group-name",
+    "ImageId": "ami-014571f1593b7be25",
+    "InstanceType": "t2.micro",
+    "LaunchTemplateName": "AutoScaleLaunchTemplate",
+    "AvailabilityZone": "eu-west-3a",
+    "ServiceLinkedRoleArn": "arn:aws:iam::550146943653:role/aws-service-role/autoscaling.amazonaws.com/AWSServiceRoleForAutoScaling"
+}
